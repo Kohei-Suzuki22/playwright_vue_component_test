@@ -7,10 +7,17 @@ test.use({ viewport: { width: 500, height: 500 } })
 test('should work', async ({ mount }) => {
   const values = []
   const component = await mount(Counter, {
+    props: {
+      name: 'test' 
+    },
     on: {
       changed: counter => values.push(counter)
     }
   })
+  console.log(component);
+  console.log("-----------------")
+  await component.rerender({ props: { name: 'test2' }});
+  console.log(component);
   await component.click()
   expect(values).toEqual([1])
   await component.click()
