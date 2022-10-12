@@ -10,7 +10,10 @@
     "test-ct": "playwright test -c playwright-ct.config.js"
   },
   "dependencies": {
+    "add": "^2.0.6",
     "vue": "^2.7.9",
-    "vue-template-compiler": "^2.7.0"
+    "vue-template-compiler": "^2.7.0",
+    "vuetify": "^2.6.11",
+    "yarn": "^1.22.19"
   }
 }

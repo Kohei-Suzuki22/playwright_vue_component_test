@@ -567,6 +567,11 @@
   optionalDependencies:
     prettier "^1.18.2 || ^2.0.0"
 
+add@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/add/-/add-2.0.6.tgz#248f0a9f6e5a528ef2295dbeec30532130ae2235"
+  integrity sha512-j5QzrmsokwWWp6kUcJQySpbG+xfOBqqKnup3OIk1pz+kB/80SLorZ9V8zHFLO92Lcd+hbvq8bT+zOGoPkmBV0Q==
+
 ansi-styles@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-3.2.1.tgz#41fbb20243e50b12be0f04b8dedbf07520ce841d"
@@ -1203,7 +1208,17 @@ vue@^2.7.9:
     "@vue/compiler-sfc" "2.7.10"
     csstype "^3.1.0"
 
+vuetify@^2.6.11:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.11.tgz#d6eb9654dfdeb204b78f15d9e6adce85e090b3e6"
+  integrity sha512-SX6BzS068t/RMj0d/sxxS/LsKdk9FpkL7CWShLyOMmJa/hiG63L0bvcopEaWYdRzzuQt7Nx174sk+KB6SvmYBw==
+
 yallist@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-2.1.2.tgz#1c11f9218f076089a47dd512f93c6699a6a81d52"
   integrity sha512-ncTzHV7NvsQZkYe1DW7cbDLm0YpzHmZF5r/iyP3ZnQtMiJ+pjzisCiMNI+Sj+xQF5pXhSHxSB3uDbsBTzY/c2A==
+
+yarn@^1.22.19:
+  version "1.22.19"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.19.tgz#4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
+  integrity sha512-/0V5q0WbslqnwP91tirOvldvYISzaqhClxzyUKXYxs07yUILIs5jx/k6CFe8bvKSkds5w+eiOqta39Wk3WxdcQ==
