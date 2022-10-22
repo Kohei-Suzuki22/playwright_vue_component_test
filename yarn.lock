@@ -433,21 +433,21 @@
     "@jridgewell/sourcemap-codec" "1.4.14"
 
 "@playwright/experimental-ct-vue2@^1.27.0":
-  version "1.27.0"
-  resolved "https://registry.yarnpkg.com/@playwright/experimental-ct-vue2/-/experimental-ct-vue2-1.27.0.tgz#3e32fe032c6b65faa09a6e728b08f451242b3ccb"
-  integrity sha512-NJbfaOlU52z54u6P8dh/w4CyxMKGKEGGSL0hpBNwyZc+NP0O1FWGtc5KwTj/uPTHHpHWWmNRhSDnUYUA3cGwTg==
+  version "1.27.1"
+  resolved "https://registry.yarnpkg.com/@playwright/experimental-ct-vue2/-/experimental-ct-vue2-1.27.1.tgz#dbfff7b9428a914735428997b29f412c0da52672"
+  integrity sha512-NpF/9MAKIwa+2T2Ypr/C1RvkW+mBX/QO88LvYMKxIW2EjnEZVlnQfX5UYt6W3LxMHZsVgVPvVO4156DaJSzoTQ==
   dependencies:
-    "@playwright/test" "1.27.0"
+    "@playwright/test" "1.27.1"
     vite "^2.9.5"
     vite-plugin-vue2 "^2.0.1"
 
-"@playwright/test@1.27.0":
-  version "1.27.0"
-  resolved "https://registry.yarnpkg.com/@playwright/test/-/test-1.27.0.tgz#a5327a4823837a718ae6fad9b1e5ff520927e834"
-  integrity sha512-L4BswoJvGkFsEHhEgzVNHBnkFB1FbnBQn3QmvTl7+AouoJQ4a8tLwZKvytdovCsNi7B5cXuRo58yGvfM5PnExw==
+"@playwright/test@1.27.1":
+  version "1.27.1"
+  resolved "https://registry.yarnpkg.com/@playwright/test/-/test-1.27.1.tgz#9364d1e02021261211c8ff586d903faa79ce95c4"
+  integrity sha512-mrL2q0an/7tVqniQQF6RBL2saskjljXzqNcCOVMUjRIgE6Y38nCNaP+Dc2FBW06bcpD3tqIws/HT9qiMHbNU0A==
   dependencies:
     "@types/node" "*"
-    playwright-core "1.27.0"
+    playwright-core "1.27.1"
 
 "@rollup/pluginutils@^4.2.1":
   version "4.2.1"
@@ -979,10 +979,10 @@ picomatch@^2.2.2:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-playwright-core@1.27.0:
-  version "1.27.0"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.27.0.tgz#e5f9d2bc19ebdd9581a01e74f019bb91aa7cf55d"
-  integrity sha512-VBKaaFUVKDo3akW+o4DwbK1ZyXh46tcSwQKPK3lruh8IJd5feu55XVZx4vOkbb2uqrNdIF51sgsadYT533SdpA==
+playwright-core@1.27.1:
+  version "1.27.1"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.27.1.tgz#840ef662e55a3ed759d8b5d3d00a5f885a7184f4"
+  integrity sha512-9EmeXDncC2Pmp/z+teoVYlvmPWUC6ejSSYZUln7YaP89Z6lpAaiaAnqroUt/BoLo8tn7WYShcfaCh+xofZa44Q==
 
 postcss-selector-parser@^6.0.2:
   version "6.0.10"
