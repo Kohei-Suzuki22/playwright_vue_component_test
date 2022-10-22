@@ -30,4 +30,3 @@ button {
   padding: 14px;
 }
 </style>
-Footer
